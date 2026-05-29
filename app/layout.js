@@ -8,6 +8,9 @@ export const metadata = {
     default: "SnipStash — Save & Share Code Snippets",
     template: "%s · SnipStash",
   },
+  verification: {
+    google: "OtoGTjExHxUAg_UnpJcMfsudkh6wBOsGPRUKirzL_fI",
+  },
   description:
     "A fast, free home for your code snippets. Save them privately, publish them publicly, and let others find your solutions.",
   keywords: ["code snippets", "snippet manager", "developer tools", "share code"],
