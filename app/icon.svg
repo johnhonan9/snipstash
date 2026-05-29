@@ -1,0 +1,9 @@
+<svg width="64" height="64" viewBox="0 0 64 64" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="SnipStash logo">
+  <rect x="2" y="2" width="60" height="60" rx="10" fill="#0d0d0f"/>
+  <!-- stacked snippet layers forming an offset 'S' -->
+  <rect x="16" y="14" width="30" height="9" rx="2" fill="#c8ff00"/>
+  <rect x="22" y="27.5" width="26" height="9" rx="2" fill="#f4f1ea"/>
+  <rect x="16" y="41" width="30" height="9" rx="2" fill="#ff5722"/>
+  <!-- caret accent -->
+  <path d="M48 18.5l3.5 3.5-3.5 3.5" stroke="#c8ff00" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" fill="none"/>
+</svg>
